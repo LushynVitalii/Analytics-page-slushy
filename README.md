@@ -32,5 +32,11 @@ While working on this project, I explored Nivo charts for the first time. It all
 - **User-Centered Design**:
 Conditional rendering with SlushyLoader ensures users don’t encounter empty states. The navigation and header components offer an intuitive experience tailored to different screen sizes.
 
+## Stack Used
+- **Next.js** - For building the front-end and server-side rendering (SSR).
+- **Nest.js** - For backend API and business logic.
+- **Axios** - For making HTTP requests and interacting with the backend API.
+- **TypeScript** - To ensure type safety across the application.
+
 https://github.com/user-attachments/assets/05975d76-8daf-420b-a477-abb15fdb5fca
 
